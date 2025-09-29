@@ -62,4 +62,7 @@ Telecom – Finding SIM-swap or weird call patterns.
 Data & AI: Python, Pandas, NumPy, Scikit-learn, TensorFlow.
 
 
+the Link:
+https://www.kaggle.com/datasets/heidarmirhajisadati/ai-fraud-detection-in-auditing/data
+
 
